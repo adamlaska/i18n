@@ -10,7 +10,7 @@
   "author": "zeke",
   "license": "MIT",
   "devDependencies": {
-    "@octokit/rest": "^16.26.0",
+    "@octokit/rest": "^16.43.2",
     "@types/cheerio": "^0.22.11",
     "@types/got": "^9.4.4",
     "@types/lodash": "^4.14.134",
